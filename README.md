@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Tripp Bishop. I am interested in data analysis and statistics in R. I also enjoy exploring numerical methods and differential equations using Python.
+
+- 🔭 I’m currently working on a data analysis project utilizing R and Tableau that looks at Denver crime data. 
+- 🌱 I’m currently learning about spatial data science and building dashboards with Tableau and R Shiny.
 
 <!--
 **TrippBishopStats/TrippBishopStats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
